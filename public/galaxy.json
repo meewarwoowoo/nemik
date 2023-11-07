@@ -1,0 +1,53 @@
+[
+    [
+        { "slot": 1 , "left": "o3" , "always": true , "name": "Coruscant" },
+        { "slot": 1 , "left": "o3" , "name": "Alderaan" },
+        { "slot": 2 , "left": "b3" , "right": "o1", "name": "Cato Neimoidia" },
+        { "slot": 3 , "left": "b3" , "right": "b4", "name": "Corellia" }
+    ],
+    [
+        { "slot": 2 , "left": "b1" , "right": "o1", "name": "Ord Mantell" },
+        { "slot": 0 , "remote": true ,  "name": "Ilum" },
+        { "slot": 0 , "remote": true ,  "name": "Dantooine" },
+        { "slot": 2 , "left": "b3" , "right": "o4", "name": "Mygeeto" }
+    ],
+    [
+        { "slot": 1 , "left": "o3" , "right": "b3", "name": "Mandalore" },
+        { "slot": 0 , "remote": true ,  "name": "Dathomir" },
+        { "slot": 1 , "left": "o3", "name": "Malastare" },
+        { "slot": 1 , "left": "o3" , "right": "o3", "name": "Kashyyyk" }
+    ],
+    [
+        { "slot": 2 , "left": "b3" , "right": "b1", "name": "Mustafar" },
+        { "slot": 0 , "remote": true ,  "name": "Hoth" },
+        { "slot": 0 , "remote": true ,  "name": "Endor" },
+        { "slot": 1 , "left": "o1", "name": "Bespin" }
+    ],
+    [
+        { "slot": 3 , "left": "b3" , "right": "b4", "name": "Mon Calamari" },
+        { "slot": 1 , "left": "o1", "name": "Felucia" },
+        { "slot": 0 , "remote": true ,  "name": "Yavin" },
+        { "slot": 1 , "left": "o1", "name": "Saleucami" }
+    ] ,
+    [
+        { "slot": 1 , "left": "o3" , "right": "b3", "name": "Nal Hutta" },
+        { "slot": 2 , "left": "b1", "name": "Toydaria" },
+        { "slot": 1 , "left": "o3", "name": "Kessel" },
+        { "slot": 1 , "left": "o1", "name": "Bothawui" }
+    ] ,
+    [
+        { "slot": 1 , "left": "o3", "name": "Rodia" },
+        { "slot": 0 , "remote": true ,  "name": "Tatooine" },
+        { "slot": 2 , "left": "b1" , "right": "o4", "name": "Geonosis" },
+        { "slot": 1 , "left": "o3", "name": "Ryloth" }
+    ] ,
+    [
+        { "slot": 2 , "left": "o3" , "right": "o4", "name": "Sullust" },
+        { "slot": 0 , "remote": true ,  "name": "Dagobah" },
+        { "slot": 1 , "left": "o3" , "right": "b3", "name": "Naboo" },
+        { "slot": 3 , "left": "b1" , "right": "b4", "name": "Utapau" }
+    ],
+    [
+        { "slot": 1 , "left": "b3" , "right": "o3" , "always": true , "name": "Rebel Base" }
+    ]
+]
